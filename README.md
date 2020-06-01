@@ -2,7 +2,7 @@
 A very simple procrator for linux / ubuntu.
 Use it to measure angles of anything on the screen.
 
-![logo](https://github.com/shula/madzavit/madzavit.png 21)
+![logo](https://raw.githubusercontent.com/shula/madzavit/master/madzavit.png)
 
 ### system requirements
 requires python3, pyqt5.
